@@ -6,10 +6,10 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blueviolet" alt="Pronouns: He/Him">
-  <img src="https://img.shields.io/badge/Learning-Advanced%20Machine%20Learning-brightgreen" alt="Currently Learning">
-  <img src="https://img.shields.io/badge/Collaboration-Open%20to%20Data%20Projects-important" alt="Looking to Collaborate">
-  <img src="https://img.shields.io/badge/Interests-Data%20Analysis%2C%20Machine%20Learning%2C%20Cloud%20Computing%2C%20Cybersecurity-informational" alt="Interests">
+  <li><img src="https://img.shields.io/badge/Pronouns-He%2FHim-blueviolet" alt="Pronouns: He/Him"></li>
+  <li><img src="https://img.shields.io/badge/Learning-Advanced%20Machine%20Learning-brightgreen" alt="Currently Learning"></li>
+  <li><img src="https://img.shields.io/badge/Collaboration-Open%20to%20Data%20Projects-important" alt="Looking to Collaborate"></li>
+  <li><img src="https://img.shields.io/badge/Interests-Data%20Analysis%2C%20Machine%20Learning%2C%20Cloud%20Computing%2C%20Cybersecurity-informational" alt="Interests"></li>
 </p>
 
 <!-- GitHub Stats -->
@@ -19,14 +19,14 @@
 
 <!-- Technologies -->
 <h2 align="center">Technologies I Use</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-★★★-blue" alt="Python">
-  <img src="https://img.shields.io/badge/TensorFlow-★★☆-orange" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Pandas-★★★-yellow" alt="Pandas">
-  <img src="https://img.shields.io/badge/AWS-★★☆-blue" alt="AWS">
-  <img src="https://img.shields.io/badge/SQL-★★★-blue" alt="SQL">
-  <img src="https://img.shields.io/badge/Machine%20Learning-★★★-green" alt="Machine Learning">
-</p>
+<ul align="center">
+  <li><img src="https://img.shields.io/badge/Python-★★★-blue" alt="Python"></li>
+  <li><img src="https://img.shields.io/badge/TensorFlow-★★★-orange" alt="TensorFlow"></li>
+  <li><img src="https://img.shields.io/badge/Pandas-★★★-yellow" alt="Pandas"></li>
+  <li><img src="https://img.shields.io/badge/AWS-★★☆-blue" alt="AWS"></li>
+  <li><img src="https://img.shields.io/badge/SQL-★★☆-blue" alt="SQL"></li>
+  <li><img src="https://img.shields.io/badge/Machine%20Learning-★★★-green" alt="Machine Learning"></li>
+</ul>
 
 <!-- Projects -->
 <h2 align="center">My Data Projects</h2>
@@ -41,5 +41,4 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/michael-nganga/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
   <a href="https://github.com/mickeywise"><img src="https://img.shields.io/badge/GitHub-Follow-blue" alt="GitHub"></a>
-  <a href="https://twitter.com/MachiraKrieger"><img src="https://img.shields.io/badge/Twitter-Follow-blue" alt="Twitter"></a>
-</p>
+  <a href="https://twitter.com/MachiraKrieger"><img src="https://img.shields.io/badge/T
