@@ -4,10 +4,12 @@
 
   <h2>About Me</h2>
   <p>
-    😄 Pronouns: He/Him<br>
-    🌱 I’m currently learning advanced machine learning techniques.<br>
-    👯 I’m looking to collaborate on data-driven projects.<br>
-    💬 Ask me about data analysis, machine learning, cloud computing, and cybersecurity.<br>
+        🚀 I am currently working on: Advanced machine learning projects and real-world data applications.<br>
+        🤝 I am looking to collaborate on: Data-driven projects, open-source AI tools, and cloud computing applications.<br>
+        🆘 I am looking for help with: Optimizing deep learning models and deploying AI solutions on the cloud.<br>
+        📖 I am currently learning: Advanced ML techniques, MLOps, and AI model interpretability.<br>
+        💬 Ask me about: Data analysis, machine learning, cloud computing, and cybersecurity.<br>
+        🎯 Fun fact: I love solving puzzles—it helps sharpen my problem-solving skills!<br>
     📫 How to reach me: <a href="mailto:michaelwilberforce4@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/michael-nganga/">LinkedIn</a>
   </p>
 
