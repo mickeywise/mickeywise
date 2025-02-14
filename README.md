@@ -1,6 +1,6 @@
 <div align="left">
   <h1>Hello, I'm Michael Nganga (MickeyWise)! 👋</h1>
-  <p>I'm a Data Scientist based in Nairobi, Kenya. Welcome to my GitHub data playground!</p>
+  <p>I'm a passionate Data Scientist based in Nairobi, Kenya. Welcome to my GitHub data playground, where I explore the world of data, machine learning, and AI!!</p>
 
   <h2>About Me</h2>
   <p>
